@@ -3,7 +3,7 @@
 ---
 
 # {{ app:project_name }}
-{TODO: Mission statement, or vision and purpose: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.}
+The Chrysididae Species File is a taxonomic database of the Chrysidid subfamilies Amiseginae and Loboscelidiinae. These understudied wasps are believed to be obligate egg-parasitoids of stick insects (see Phasmida Species File). The goal of this database is to provide a central point for information about these wasps, including their host relationships which are at present poorly understood. It is hoped that an up-to-date and centralised database will facilitate studies on these enigmatic insects, both by hymenopterists and phasmatologists.
 
 <autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
 
