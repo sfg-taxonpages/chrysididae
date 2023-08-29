@@ -15,7 +15,6 @@ Our [About](about) page contains an [overview](about#overview) and [history](abo
 ## Announcements
 This is the initial version of the TaxonPages version of the {{app.header_logo_text}}
 <!--### Announcement title 1
-<!--- add inline --->
 _Authors, date_-->
 <!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
