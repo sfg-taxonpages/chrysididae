@@ -1,4 +1,4 @@
-der_logo_te---
+---
 # See project.yml for variables.
 ---
 
