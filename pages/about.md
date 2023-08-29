@@ -29,11 +29,11 @@ Or Funding needed to publish our latest information ... or address data gaps
 
 ## Contributors
 
-|name|role|
-|----|----|
-| Edward Baker | Editor |
-| Lynn Kimsey | Major contributor |
-| Ricard M Bohart | Major contributor |
+|name|role|affiliation|
+|----|----|-----------|
+| Edward Baker | Editor | Natural History Museum, London |
+| Lynn Kimsey | Major contributor | University of California, Davis, Department of Entomology |
+| Ricard M Bohart | Major contributor | University of California, Davis, Department of Entomology |
 
 _A \* denotes a past contributor, now inactive._
 
