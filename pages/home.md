@@ -1,4 +1,4 @@
----
+der_logo_te---
 # See project.yml for variables.
 ---
 
@@ -13,7 +13,7 @@ _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app
 Our [About](about) page contains an [overview](about#overview) and [history](about#history) of the project, its data and [gaps](about#gaps-as-opportunity),<D-r> and information about the [team](about#team) and how _you_ can [contribute](about#contribute-or-get-help). You can also [contact us](about#contribute-or-get-help) or [get help](about#contribute-or-get-help). 
 
 ## Announcements
-This is the initial version of the TaxonPages version of the {{app.
+This is the initial version of the TaxonPages version of the {{app.header_logo_text}}
 <!--### Announcement title 1
 <!--- add inline --->
 _Authors, date_-->
