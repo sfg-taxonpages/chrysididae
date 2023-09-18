@@ -40,9 +40,9 @@ _A \* denotes a past contributor, now inactive._
 ## Contribute or get help
 _Projects of this nature require expertise in many different areas, not only on the taxa being treated. If you can imagine a way to contribute we'd love to hear about it._
 
-- **<a href="mailto:{{app:contact_email}}">Email</a>** is the primary way to contact us, including enquiries about **joining** the researchers building this Species File. { ... or join a regular support meeting. } { See also [Governance](#governance). }
-- **Provide new data or identify a problem with existing data** by contacting us (see above). { Alternate data manager email}, {Issue tracker option}.
-- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use).
+- Enquire about joining the researchers building this Species File: <a href="mailto:{{app:contact_email}}">Email</a>
+- **Provide new data or identify a problem with existing data** by contacting us (see above).{Issue tracker option}.
+- **Cite** this website via the citation at the bottom of the page. See also [Terms of use](#terms-of-use-and-copyright-guidance).
 - **Something is broken** (i.e. with TaxonPages the software)? See [Software](#software), or use the [TaxonPages Issue Tracker](https://github.com/SpeciesFileGroup/taxonpages/issues).
 
 ### Extended data access
@@ -73,7 +73,7 @@ About our group structure, how the rules behind joining and participating are se
 | Site name | [site name]{site url} | Note |
 | Site name | [site name]{site url} | Note |
 
-## Terms of use (Copyright guidance)
+## Terms of use and copyright guidance
 
 <div class="flex items-center gap-2">
   <a
