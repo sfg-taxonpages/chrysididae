@@ -5,7 +5,7 @@
 # {{ app:project_name }}
 The Chrysididae Species File is a taxonomic database of the Chrysidid subfamilies Amiseginae and Loboscelidiinae. These understudied wasps are believed to be obligate egg-parasitoids of stick insects (see Phasmida Species File). The goal of this database is to provide a central point for information about these wasps, including their host relationships which are at present poorly understood. It is hoped that an up-to-date and centralised database will facilitate studies on these enigmatic insects, both by hymenopterists and phasmatologists.
 
-<autocomplete-otu class="w-80 place-content-center" placeholder="Search by taxon name"/>
+<autocomplete-otu class="w-full sm:w-96" placeholder="Search by taxon name"/>
 
 _Try searching for "{Aidae}", "{Aus}", "{Aus bus}"}, or start at [{Order}]({{app:project_url}}/otus/{id}/overview), [{Family}]({{app:project_url}}/otus/{id}/overview), or [{Genus}]({{app:project_url}}/otus/{id}/overview)._
 
